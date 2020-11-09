@@ -2,12 +2,7 @@
 sort: 2
 ---
 
-# This is an incredibly long caption for a long menu
+# 컨텐츠
 
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-
-{% include list.liquid all=true %}
-```
-
-{% include list.liquid all=true %}
+이 사이트는 없어진 SDA의 카페북을 백업하기 위해 만들어졌습니다.
+글 저작권은 원작자에게 있습니다.
